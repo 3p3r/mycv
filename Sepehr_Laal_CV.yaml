@@ -148,7 +148,7 @@ cv:
           - Led R&D of an automated golden-ear testing system for audio encoders, discovering decades-old defects in legacy encoders and contributing to sole-inventor patent [US 11,134,279 B1](https://patents.google.com/patent/US11134279B1/en) for media fingerprinting validation.
           - Implemented Waveprint, an efficient wavelet-based audio fingerprinting system in CUDA C++.
           - Implemented new features and fixed bugs in the Elemental Live product.
-      - company: Helio Interactive PDX
+      - company: Helios Interactive PDX
         position: *Software Engineer*
         start_date: 2015
         end_date: 2017

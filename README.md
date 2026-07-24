@@ -199,7 +199,7 @@ Granted patent for media validation using wavelet decomposition fingerprinting; 
 
 
 
-## **Helio Interactive PDX**, *Software Engineer* -- Portland, OR
+## **Helios Interactive PDX**, *Software Engineer* -- Portland, OR
 
 2015 – 2017
 
